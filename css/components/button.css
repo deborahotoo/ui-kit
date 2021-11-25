@@ -1,0 +1,14 @@
+.button-purple{
+	background-color: #664E88;
+	color: white;
+	padding: 15px 25px;
+	border-radius: 4px;
+	text-decoration: none;
+	display: inline-block;
+	opacity: 2;
+}
+
+.button-purple:hover {
+	opacity: 0.9;
+
+}
